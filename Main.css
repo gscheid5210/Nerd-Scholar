@@ -1,8 +1,16 @@
 h1 {
     Font-size: 69PX;
     Font-family: georgia;
+    text-indent: 35%;
 }
 
-btn-primary {
-    Color: Red;
+
+button {
+    margin-inline-start: auto;
+}
+
+p {
+    font-family: georgia;
+    font-size: 40px;
+    text-indent: 35%
 }
