@@ -4,6 +4,8 @@
   },
   "hosting": {
     "public": "public",
+    "site": "nerdscholar-58c0a",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
